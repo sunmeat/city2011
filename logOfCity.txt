@@ -1,0 +1,480 @@
+2
+-koordinati:-> 241 - 292
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 4
+-AnalizeToDoPriority-> 0
+
+10
+-koordinati:-> 401 - 278
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 1
+-AnalizeToDoPriority-> 0
+
+19
+-koordinati:-> 231 - 75
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 2
+-AnalizeToDoPriority-> 0
+
+20
+-koordinati:-> 248 - 373
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 4
+-AnalizeToDoPriority-> 0
+
+21
+-koordinati:-> 403 - 12
+-DEFvector-> UP
+-flagPRIORITY-> TRUE
+-PRIORITYvector-> LEFT
+-OJIDANIE-> 5
+-AnalizeToDoPriority-> 0
+
+22
+-koordinati:-> 168 - 359
+-DEFvector-> UP
+-flagPRIORITY-> TRUE
+-PRIORITYvector-> LEFT
+-OJIDANIE-> 2
+-AnalizeToDoPriority-> 0
+
+29
+-koordinati:-> 314 - 144
+-DEFvector-> RIGHT
+-flagPRIORITY-> TRUE
+-PRIORITYvector-> UP
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+31
+-koordinati:-> 302 - 261
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> 
+-OJIDANIE-> 8
+-AnalizeToDoPriority-> 0
+
+35
+-koordinati:-> 98 - 275
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+49
+-koordinati:-> 176 - 355
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+53
+-koordinati:-> 55 - 110
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+55
+-koordinati:-> 196 - 229
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 2
+-AnalizeToDoPriority-> 0
+
+61
+-koordinati:-> 351 - 439
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> 
+-OJIDANIE-> 1
+-AnalizeToDoPriority-> 0
+
+69
+-koordinati:-> 41 - 54
+-DEFvector-> DOWN
+-flagPRIORITY-> TRUE
+-PRIORITYvector-> RIGHT
+-OJIDANIE-> 5
+-AnalizeToDoPriority-> 0
+
+76
+-koordinati:-> 341 - 82
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 2
+-AnalizeToDoPriority-> 0
+
+79
+-koordinati:-> 407 - 12
+-DEFvector-> UP
+-flagPRIORITY-> TRUE
+-PRIORITYvector-> LEFT
+-OJIDANIE-> 5
+-AnalizeToDoPriority-> 0
+
+82
+-koordinati:-> 343 - 47
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> 
+-OJIDANIE-> 4
+-AnalizeToDoPriority-> 0
+
+85
+-koordinati:-> 358 - 86
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> 
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+89
+-koordinati:-> 63 - 110
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 5
+-AnalizeToDoPriority-> 0
+
+92
+-koordinati:-> 148 - 156
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 5
+-AnalizeToDoPriority-> 0
+
+93
+-koordinati:-> 168 - 264
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 5
+-AnalizeToDoPriority-> 0
+
+96
+-koordinati:-> 453 - 464
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> 
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+101
+-koordinati:-> 241 - 208
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 5
+-AnalizeToDoPriority-> 0
+
+102
+-koordinati:-> 101 - 128
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 5
+-AnalizeToDoPriority-> 0
+
+108
+-koordinati:-> 362 - 86
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+111
+-koordinati:-> 188 - 380
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 1
+-AnalizeToDoPriority-> 0
+
+112
+-koordinati:-> 351 - 47
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> 
+-OJIDANIE-> 4
+-AnalizeToDoPriority-> 0
+
+117
+-koordinati:-> 337 - 82
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 2
+-AnalizeToDoPriority-> 0
+
+126
+-koordinati:-> 301 - 267
+-DEFvector-> LEFT
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> LEFT
+-OJIDANIE-> 8
+-AnalizeToDoPriority-> 0
+
+128
+-koordinati:-> 241 - 212
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 4
+-AnalizeToDoPriority-> 0
+
+135
+-koordinati:-> 71 - 180
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 4
+-AnalizeToDoPriority-> 0
+
+136
+-koordinati:-> 148 - 489
+-DEFvector-> UP
+-flagPRIORITY-> TRUE
+-PRIORITYvector-> RIGHT
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+153
+-koordinati:-> 313 - 149
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 5
+-AnalizeToDoPriority-> 0
+
+159
+-koordinati:-> 216 - 152
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+162
+-koordinati:-> 378 - 233
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+164
+-koordinati:-> 253 - 212
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 2
+-AnalizeToDoPriority-> 0
+
+167
+-koordinati:-> 136 - 271
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 1
+-AnalizeToDoPriority-> 0
+
+168
+-koordinati:-> 301 - 263
+-DEFvector-> LEFT
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> LEFT
+-OJIDANIE-> 9
+-AnalizeToDoPriority-> 0
+
+179
+-koordinati:-> 358 - 177
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+182
+-koordinati:-> 43 - 184
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 4
+-AnalizeToDoPriority-> 0
+
+186
+-koordinati:-> 391 - 82
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 1
+-AnalizeToDoPriority-> 0
+
+188
+-koordinati:-> 243 - 79
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 1
+-AnalizeToDoPriority-> 0
+
+203
+-koordinati:-> 201 - 485
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> 
+-OJIDANIE-> 5
+-AnalizeToDoPriority-> 0
+
+204
+-koordinati:-> 59 - 110
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 5
+-AnalizeToDoPriority-> 0
+
+205
+-koordinati:-> 241 - 229
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+207
+-koordinati:-> 343 - 359
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> LEFT
+-OJIDANIE-> 4
+-AnalizeToDoPriority-> 0
+
+215
+-koordinati:-> 186 - 180
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 2
+-AnalizeToDoPriority-> 0
+
+217
+-koordinati:-> 194 - 229
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 1
+-AnalizeToDoPriority-> 0
+
+225
+-koordinati:-> 258 - 145
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 7
+-AnalizeToDoPriority-> 0
+
+228
+-koordinati:-> 156 - 485
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> 
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+231
+-koordinati:-> 191 - 47
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 1
+-AnalizeToDoPriority-> 0
+
+232
+-koordinati:-> 351 - 257
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 4
+-AnalizeToDoPriority-> 0
+
+246
+-koordinati:-> 366 - 86
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 2
+-AnalizeToDoPriority-> 0
+
+247
+-koordinati:-> 451 - 436
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 5
+-AnalizeToDoPriority-> 0
+
+248
+-koordinati:-> 313 - 306
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> 
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+250
+-koordinati:-> 236 - 369
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+254
+-koordinati:-> 266 - 342
+-DEFvector-> LEFT
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> LEFT
+-OJIDANIE-> 1
+-AnalizeToDoPriority-> 0
+
+262
+-koordinati:-> 362 - 177
+-DEFvector-> UP
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> UP
+-OJIDANIE-> 3
+-AnalizeToDoPriority-> 0
+
+264
+-koordinati:-> 231 - 208
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 4
+-AnalizeToDoPriority-> 0
+
+269
+-koordinati:-> 186 - 418
+-DEFvector-> DOWN
+-flagPRIORITY-> FALSE
+-PRIORITYvector-> DOWN
+-OJIDANIE-> 2
+-AnalizeToDoPriority-> 0
+
